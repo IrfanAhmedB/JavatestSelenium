@@ -1,2 +1,2 @@
-# JavatestSelenium
+# POMSelenium
 Classtest
